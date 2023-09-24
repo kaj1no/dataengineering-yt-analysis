@@ -14,7 +14,7 @@
     Reporting: Built a dashboard for answering analytical questions.<br />
 <b>Services Used:</b><br />
     Amazon S3, AWS IAM, AWS QuickSight, AWS Glue, AWS Lambda, AWS Athena<br />
-<b>Dataset Utilized:<b/><br />
+<b>Dataset Utilized:</b><br />
     Analyzed statistics from daily popular YouTube videos over several months.<br />
     Processed up to 200 trending videos daily across different locations.<br />
     Extracted video title, channel title, publication time, tags, views, likes, dislikes, description, and comment count.<br />
